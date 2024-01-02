@@ -11,7 +11,9 @@ A straightforward chatbot implementation using HTML for structure, CSS for styli
 
 ## Demo
 
-Include a link or screenshot to a live demo of your chatbot.
+![Screenshot (10)](https://github.com/JayaPandey-jp/SimpleChatBot/assets/127422073/dcc8b03b-8c08-45d8-be40-a464c7eb9f79)
+![Screenshot (11)](https://github.com/JayaPandey-jp/SimpleChatBot/assets/127422073/7c47cab7-a88d-4097-a3c7-2e6df42a0f80)
+![Screenshot (12)](https://github.com/JayaPandey-jp/SimpleChatBot/assets/127422073/443fcd85-97fc-4341-abe4-8e189de5c9e3)
 
 ## Features
 
